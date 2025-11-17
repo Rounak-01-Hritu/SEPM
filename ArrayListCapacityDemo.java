@@ -31,3 +31,13 @@ public class ArrayListCapacityDemo {
         return internalArray.length;
     }
 }
+
+
+
+// output:
+// Initial Size: 10
+// Initial Capacity: 10
+
+// After Adding One More Element:
+// New Size: 11
+// New Capacity: 15
